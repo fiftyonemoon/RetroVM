@@ -73,5 +73,7 @@ Request API Link: https://api.github.com/users/{login}
 }
 ```
 ## Output
+
 ![0](0.gif)
+
 ![1](1.gif)
