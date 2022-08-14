@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RetroVM</string>
+    <string name="s_s">%s: %s</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="no_data">No Data</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="info">Info</string>
+    <string name="dash">\@unknown</string>
+</resources>
