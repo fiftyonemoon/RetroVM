@@ -1,2 +1,2 @@
 # RetroVM
- A Android API Calling Library.
+Android API calling project using Retrofit + MVVM + DataBinding in Java Language.
