@@ -74,6 +74,4 @@ Request API Link: https://api.github.com/users/{login}
 ```
 ## Output
 
-![0](0.gif)
-
-![1](1.gif)
+<img src="./0.gif" alt="720x1280" width="270"> <img src="./1.gif" alt="720x1280" width="270">
