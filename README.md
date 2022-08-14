@@ -72,3 +72,6 @@ Request API Link: https://api.github.com/users/{login}
     "updated_at": "2022-07-14T18:11:40Z"
 }
 ```
+## Output
+![0](0.gif)
+![1](1.gif)
