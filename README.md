@@ -1,2 +1,2 @@
 # RetroVM
-Android API calling project using Retrofit + MVVM + DataBinding in Java Language.
+A demo project for API calling using Retrofit + MVVM + DataBinding in Android(JAVA).
